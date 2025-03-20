@@ -19,7 +19,9 @@ export default function Footer() {
         </div>
 
         <p className="text-sm uppercase tracking-wide relative z-10">Ready to do this</p>
-        <h2 className="text-4xl font-bold mt-2 relative z-10">Let's get to work</h2>
+        <h2 className="text-4xl font-bold mt-2 relative z-10">
+          Let&apos;s get to work
+        </h2>
         <button className="mt-6 px-6 py-2 border border-white text-white text-lg font-medium hover:bg-white hover:text-red-500 transition relative z-10">
           Contact Us
         </button>
@@ -34,7 +36,7 @@ export default function Footer() {
             <ul className="mt-2 space-y-2">
               <li><a href="#" className="hover:text-white transition">Work</a></li>
               <li><a href="#" className="hover:text-white transition">About</a></li>
-              <li><a href="#" className="hover:text-white transition">Let's Talk</a></li>
+              <li><a href="#" className="hover:text-white transition">Let&apos;s Talk</a></li>
             </ul>
           </div>
 
@@ -54,7 +56,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <p className="text-sm text-gray-500 mt-8 text-center md:text-left">
-          Copyright © 2022 Rainbow-Themes. All Rights Reserved.
+          Copyright &copy; 2022 Rainbow-Themes. All Rights Reserved.
         </p>
       </div>
     </footer>
