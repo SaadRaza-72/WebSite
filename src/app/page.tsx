@@ -7,7 +7,6 @@ import OurWorks from "./components/ourwork";
 import FunFacts from "./components/funfacts";
 import TestimonialSection from "./components/TestimonialSection";
 import Latestnews from "./components/Latestnews";
-import LogoSection from "./components/LogoSection";
 import Footer from "./components/Footer";
 
 
@@ -22,7 +21,6 @@ export default function Home() {
     <FunFacts />
     <TestimonialSection />
     <Latestnews />
-    {/* <LogoSection /> */}
     <Footer />
     </>
   );
